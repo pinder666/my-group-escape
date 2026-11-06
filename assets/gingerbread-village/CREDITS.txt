@@ -1,0 +1,18 @@
+Artwork in this folder is from Google's open-source Santa Tracker project
+(https://github.com/google/santa-tracker-web), licensed CC BY 4.0, Google LLC (santa-tracker-web).
+Files are unmodified copies except for renaming where noted.
+
+hit-house-03.svg    static/scenes/glider/img/hit-house-03.svg      CC BY 4.0, Google LLC (santa-tracker-web)
+hit-house-07.svg    static/scenes/glider/img/hit-house-07.svg      CC BY 4.0, Google LLC (santa-tracker-web)
+hit-house-08.svg    static/scenes/glider/img/hit-house-08.svg      CC BY 4.0, Google LLC (santa-tracker-web)
+hit-house-11.svg    static/scenes/glider/img/hit-house-11.svg      CC BY 4.0, Google LLC (santa-tracker-web)
+hit-house-12.svg    static/scenes/glider/img/hit-house-12.svg      CC BY 4.0, Google LLC (santa-tracker-web)
+hit-house-24.svg    static/scenes/glider/img/hit-house-24.svg      CC BY 4.0, Google LLC (santa-tracker-web)
+gingerbread-man.svg static/scenes/santasearch/img/gingerbread-man.svg  CC BY 4.0, Google LLC (santa-tracker-web)
+penguin.svg         static/scenes/santasearch/img/penguin.svg      CC BY 4.0, Google LLC (santa-tracker-web)
+tree.svg            static/scenes/modvil/img/village/tree.svg      CC BY 4.0, Google LLC (santa-tracker-web)
+peppermint.svg      static/scenes/modvil/img/village/elfchair-wheel.svg (renamed)  CC BY 4.0, Google LLC (santa-tracker-web)
+holly.svg           static/scenes/santaselfie/img/tools/decorations/holly.svg   CC BY 4.0, Google LLC (santa-tracker-web)
+bauble.svg          static/scenes/santaselfie/img/tools/decorations/bauble.svg  CC BY 4.0, Google LLC (santa-tracker-web)
+bow.svg             static/scenes/santaselfie/img/tools/decorations/bow.svg     CC BY 4.0, Google LLC (santa-tracker-web)
+snowman.svg         static/scenes/santaselfie/img/tools/decorations/snowman.svg CC BY 4.0, Google LLC (santa-tracker-web)

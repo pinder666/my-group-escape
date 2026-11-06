@@ -1,0 +1,32 @@
+Santa's Toy Factory - artwork credits
+All files below: CC BY 4.0, Google LLC (santa-tracker-web), https://github.com/google/santa-tracker-web
+Some SVGs were given a viewBox / cropped viewBox so they scale; artwork otherwise unchanged.
+
+teddy.svg          static/scenes/buildandbolt/img/toys/teddy/full.svg
+robot.svg          static/scenes/buildandbolt/img/toys/robot/full.svg
+rocket.svg         static/scenes/buildandbolt/img/toys/rocket/full.svg
+car.svg            static/scenes/buildandbolt/img/toys/car/full.svg
+part-car-1.svg     static/scenes/buildandbolt/img/toys/car/1.svg
+part-car-2.svg     static/scenes/buildandbolt/img/toys/car/2.svg
+part-robot-1.svg   static/scenes/buildandbolt/img/toys/robot/1.svg
+part-robot-2.svg   static/scenes/buildandbolt/img/toys/robot/2.svg
+part-robot-3.svg   static/scenes/buildandbolt/img/toys/robot/3.svg
+part-teddy-1.svg   static/scenes/buildandbolt/img/toys/teddy/1.svg
+part-teddy-2.svg   static/scenes/buildandbolt/img/toys/teddy/2.svg
+part-teddy-3.svg   static/scenes/buildandbolt/img/toys/teddy/3.svg
+part-rocket-1.svg  static/scenes/buildandbolt/img/toys/rocket/1.svg
+part-rocket-2.svg  static/scenes/buildandbolt/img/toys/rocket/2.svg
+part-rocket-3.svg  static/scenes/buildandbolt/img/toys/rocket/3.svg
+part-rocket-4.svg  static/scenes/buildandbolt/img/toys/rocket/4.svg
+elf-blue.svg       static/scenes/buildandbolt/img/players/a/player.svg
+elf-pink.svg       static/scenes/buildandbolt/img/players/b/player.svg
+ball.svg           static/scenes/wrapbattle/img/toys/toys-01.svg
+train.svg          static/scenes/wrapbattle/img/toys/toys-03.svg
+nutcracker.svg     static/scenes/wrapbattle/img/toys/toys-04.svg
+snowglobe.svg      static/scenes/wrapbattle/img/toys/toys-08.svg
+gift_red2.png      static/scenes/wrapbattle/img/presents/gift_red2.png
+gift_green2.png    static/scenes/wrapbattle/img/presents/gift_green2.png
+gift_blue2.png     static/scenes/wrapbattle/img/presents/gift_blue2.png
+gear-big.svg       static/scenes/gumball/img/wheelbig.svg
+gear-small.svg     static/scenes/gumball/img/wheelsmall.svg
+bowtie.svg         static/scenes/elfmaker/img/btn_accessories.svg

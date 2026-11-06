@@ -1,0 +1,16 @@
+Art used in "The Elf Express" (exp/elf-express.js).
+All files: CC BY 4.0, Google LLC (santa-tracker-web). Original repo paths below (static/...).
+
+cloud.min.svg        static/scenes/airport/img/cloud.min.svg (recoloured white with CSS as steam)
+elf-1-front.svg      static/scenes/elfexpress/img/elf-1-front.svg
+elf2-holding.png     static/scenes/railroad/img/Elf2_Holding@2x.png (downscaled)
+elf5-holding.png     static/scenes/railroad/img/Elf5_Holding@2x.png (downscaled)
+mountain.svg         static/scenes/demoscene/img/mountain.svg (darkened with CSS)
+penguin-presents.svg static/scenes/santascanvas/img/stickers/animals/penguin-presents.svg
+present-01.svg       static/scenes/glider/img/present-01.svg
+present-02.svg       static/scenes/glider/img/present-02.svg
+present-03.svg       static/scenes/glider/img/present-03.svg
+present-04.svg       static/scenes/glider/img/present-04.svg
+presents-stack.svg   static/scenes/santascanvas/img/stickers/decorations/presents-stack.svg
+trees-blue.svg       static/scenes/santascanvas/img/stickers/nature/trees-blue.svg
+trees-green.svg      static/scenes/santascanvas/img/stickers/nature/trees-green.svg

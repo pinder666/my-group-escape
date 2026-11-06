@@ -1,0 +1,22 @@
+Artwork in this folder comes from Google's open-source Santa Tracker project
+(https://github.com/google/santa-tracker-web). Per the project's LICENSE, all image
+and audio files are licensed under Creative Commons Attribution 4.0 International
+(CC BY 4.0); code is Apache-2.0. Trademarks are not licensed. Files were copied
+unmodified; only the file names were changed.
+
+File               Original repo path                                                     License
+elf-red.svg        static/scenes/elfexpress/img/elf-3-front.svg                           CC BY 4.0, Google LLC (santa-tracker-web)
+elf-green.svg      static/scenes/elfexpress/img/elf-4-front.svg                           CC BY 4.0, Google LLC (santa-tracker-web)
+sleigh.svg         static/scenes/elfexpress/img/sleigh.svg                                CC BY 4.0, Google LLC (santa-tracker-web)
+santa.svg          static/scenes/santasearch/img/santa.svg                                CC BY 4.0, Google LLC (santa-tracker-web)
+reindeer.svg       static/scenes/santasearch/img/rudolph.svg                              CC BY 4.0, Google LLC (santa-tracker-web)
+present-red.svg    static/scenes/commandcentre/img/presents-present-red_33percent.min.svg CC BY 4.0, Google LLC (santa-tracker-web)
+box-purple.svg     static/scenes/glider/img/present-02.svg                                CC BY 4.0, Google LLC (santa-tracker-web)
+box-blue.svg       static/scenes/glider/img/present-04.svg                                CC BY 4.0, Google LLC (santa-tracker-web)
+tree.svg           static/scenes/modvil/img/village/tree.svg                              CC BY 4.0, Google LLC (santa-tracker-web)
+gingerbread.svg    static/scenes/santasearch/img/gingerbread-man.svg                      CC BY 4.0, Google LLC (santa-tracker-web)
+teddy.svg          static/scenes/buildandbolt/img/toys/teddy/full.svg                     CC BY 4.0, Google LLC (santa-tracker-web)
+robot.svg          static/scenes/buildandbolt/img/toys/robot/full.svg                     CC BY 4.0, Google LLC (santa-tracker-web)
+rocket.svg         static/scenes/buildandbolt/img/toys/rocket/full.svg                    CC BY 4.0, Google LLC (santa-tracker-web)
+train.svg          static/scenes/wrapbattle/img/toys/toys-03.svg                          CC BY 4.0, Google LLC (santa-tracker-web)
+holly.svg          static/scenes/santaselfie/img/tools/decorations/holly.svg              CC BY 4.0, Google LLC (santa-tracker-web)

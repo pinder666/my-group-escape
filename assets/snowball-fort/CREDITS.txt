@@ -1,0 +1,15 @@
+Art for "The Snowball Fort" (exp/snowball-fort.js)
+All images: CC BY 4.0, Google LLC (santa-tracker-web). Cropped/rotated/downscaled with PIL.
+
+penguin.png        static/scenes/penguindash/img/sprite-penguin.png (frame 13, rotated 90 degrees)
+penguin-wave.png   static/scenes/penguindash/img/sprite-penguin.png (frame 12, rotated 90 degrees)
+penguin-teal.png   static/scenes/penguindash/img/sprite-penguin.png (frame 14, rotated 90 degrees)
+ice-block.png      static/scenes/penguindash/img/element-ice1.png
+snowman-head.png   static/scenes/snowbox/img/snowman.png
+tree-frost-a.png   static/scenes/elfski/img/tiles.png (crop)
+tree-frost-b.png   static/scenes/elfski/img/tiles.png (crop)
+tree-frost-c.png   static/scenes/elfski/img/tiles.png (crop)
+tree-snow-a.png    static/scenes/elfski/img/tiles.png (crop)
+tree-snow-b.png    static/scenes/elfski/img/tiles.png (crop)
+elf-green.png      static/scenes/snowball/js/images/elf.png
+elf-orange.png     static/scenes/snowball/js/images/dummy.png

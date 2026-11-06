@@ -1,0 +1,20 @@
+Art in this folder is from Google's open-source Santa Tracker (santa-tracker-web).
+License: CC BY 4.0, Google LLC (santa-tracker-web). Some PNGs were cropped and/or downscaled; elf-diver.png had its rope and platform removed.
+
+fish-a.png        static/scenes/undersea/img/fish.png (crop)            CC BY 4.0, Google LLC (santa-tracker-web)
+fish-b.png        static/scenes/undersea/img/fish.png (crop, scaled)    CC BY 4.0, Google LLC (santa-tracker-web)
+fish-c.png        static/scenes/undersea/img/fish.png (crop)            CC BY 4.0, Google LLC (santa-tracker-web)
+fish-d.png        static/scenes/undersea/img/fish.png (crop, scaled)    CC BY 4.0, Google LLC (santa-tracker-web)
+crab.png          static/scenes/undersea/img/crabby-small.png (scaled)  CC BY 4.0, Google LLC (santa-tracker-web)
+elf-diver.png     static/scenes/undersea/img/elf.png (crop, cleaned)    CC BY 4.0, Google LLC (santa-tracker-web)
+chest-closed.png  static/scenes/undersea/img/chest.png (crop)           CC BY 4.0, Google LLC (santa-tracker-web)
+chest-open.png    static/scenes/undersea/img/chest.png (crop)           CC BY 4.0, Google LLC (santa-tracker-web)
+presents-pile.png static/scenes/undersea/img/presents.png (scaled)      CC BY 4.0, Google LLC (santa-tracker-web)
+tree-small.png    static/scenes/undersea/img/bottom-objects.png (crop)  CC BY 4.0, Google LLC (santa-tracker-web)
+reef.png          static/scenes/undersea/img/bottom-reefs.png (scaled)  CC BY 4.0, Google LLC (santa-tracker-web)
+present-01.svg    static/scenes/glider/img/present-01.svg               CC BY 4.0, Google LLC (santa-tracker-web)
+present-02.svg    static/scenes/glider/img/present-02.svg               CC BY 4.0, Google LLC (santa-tracker-web)
+present-03.svg    static/scenes/glider/img/present-03.svg               CC BY 4.0, Google LLC (santa-tracker-web)
+present-04.svg    static/scenes/glider/img/present-04.svg               CC BY 4.0, Google LLC (santa-tracker-web)
+present-05.svg    static/scenes/glider/img/present-05.svg               CC BY 4.0, Google LLC (santa-tracker-web)
+present-07.svg    static/scenes/glider/img/present-07.svg               CC BY 4.0, Google LLC (santa-tracker-web)
